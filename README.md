@@ -1,2 +1,2 @@
 # javascrit
-:computer: Primeiros passos com a linguagem JavaScript
+Primeiros passos com a linguagem JavaScript
